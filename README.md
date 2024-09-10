@@ -23,6 +23,7 @@ Este projeto está sendo desenvolvido na trilha de aprendizagem da [**Rocketseat
 │   ├── routes/         # Configuração de rotas.
 │   ├── screens/        # Telas principais da aplicação.
 │   ├── theme/          # Arquivos de configuração de tema.
-│   └── App.js          # Arquivo principal.
+│   └── App.tsx          # Arquivo principal.
 ├── package.json        # Dependências e scripts do projeto.
 └── README.md           # Documentação do projeto.
+```
